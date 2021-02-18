@@ -556,7 +556,7 @@ Mohd Rukhairy Abdul Rahman
 Picaro
 UNC Charlotte Entrepreneurship Group
 VLau
-
+---- I'll edit this list to make it more readable soon!
 
 ## Project status
 Active – awaiting feedback from Kickstarter backers and others. 
