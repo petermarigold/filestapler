@@ -1,5 +1,9 @@
 # **File Stapler**
 
+![filestaplerlogo](https://www.dropbox.com/s/eo74e0v23nubx8p/File%20Stapler%20logo.jpg?dl=0)
+
+
+https://www.dropbox.com/s/eo74e0v23nubx8p/File%20Stapler%20logo.jpg?dl=0
 ## Description
 File Stapler is a desktop tool that staples together multiple files, so that when one opens, the others automatically also open. Stapling files is an alternative to moving files into new folders or making multiple copies of the same files from different locations. 
 
