@@ -40,21 +40,21 @@ https://www.dropbox.com/s/27xf0kvqr2az0d5/MIT%20License%20for%20the%20software%2
 ## Installation   *(HELP please!)*
 As a standalone Electron app – I believe (!) that this requires no specific installation requirements. 
 
-##Usage   *(HELP please!)*
+## Usage   *(HELP please!)*
 I am open to suggestions on this. Could it be integrated into another software? I feel it is fundamentally a standalone tool. 
 
-##Support
+## Support
 Please join the discussion on the github community forum link:  *TO FOLLOW*
 Private communication can be sent to info@petermarigold.com 
 Coffees can be bought for me at: 
 https://www.buymeacoffee.com/petermarigold
 
 
-##Requirements *(HELP please!)*
+## Requirements *(HELP please!)*
 The app is tiny. I understand even the most basic machine should be able to run it. I am open to advice on this section!
 
 
-##Road Map - future possible inclusions:
+## Road Map - future possible inclusions:
 
 -	**Make new ZIP folder from stapled files**
 -	**Add file to group**
@@ -72,15 +72,15 @@ The app is tiny. I understand even the most basic machine should be able to run 
 
 
 
-##Contributing *(HELP please!)*
+## Contributing *(HELP please!)*
 I really don't know what to put here!  If you even are able to improve this readme I am all ears!
 Help me Obi Wan, you’re my only hope. 
 
 
-##Disclaimer
+## Disclaimer
 There might be bugs in the code as this was not developed by me - this software does not come with any warranty.
 
-##Authors and acknowledgment
+## Authors and acknowledgment
 File Stapler was conceived by Peter Marigold 
 [www.petermarigold.com](http://www.petermarigold.com/file-stapler)
 
@@ -558,7 +558,7 @@ UNC Charlotte Entrepreneurship Group
 VLau
 
 
-##Project status
+## Project status
 Active – awaiting feedback from Kickstarter backers and others. 
 
 
