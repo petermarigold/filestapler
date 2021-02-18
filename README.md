@@ -1,6 +1,6 @@
 # **File Stapler**
 
-![filestaplerlogo](https://www.dropbox.com/s/eo74e0v23nubx8p/File%20Stapler%20logo.jpg?dl=0)
+![filestaplerlogo](https://ibb.co/F8GNrs6)
 
 
 https://www.dropbox.com/s/eo74e0v23nubx8p/File%20Stapler%20logo.jpg?dl=0
