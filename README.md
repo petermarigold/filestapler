@@ -1,9 +1,7 @@
 # **File Stapler**
 
-![filestaplerlogo](https://ibb.co/F8GNrs6)
+<img src="https://previews.dropbox.com/p/thumb/ABGytcxLtbXRm1l8ycTy5B3V0TQR3CFuESX-A8WYcsuPDieCiiv_laY6QTzBxt4IPU4otM3AVOxDN-orXMaAAdOKwRkjGrOTdZq8UtZTdrBI6hGy8uNS_sCENkFQe6afnFG9zdwCIZa6jvSFL4W_07sWHehQ8ReJlv_F6uQaKREl9v26MQVqURrblty_DNTyHQOa3bNvO2k4-ECm3Af0ygZfQSr1q52VUQIzbpZZek_5uimf6B3UgjNWjh_xAfTDdssxtq728TOucoeHo5SCwEHf6xSt00RQtRkm3KlmiqKXkOS1O8RwVYnowA9pUB46eqedc6IMxJ-J4UL7GAMu5IRiGIqjyu31l6mkHPQ3VLtm3Q/p.jpeg?fv_content=true&size_mode=5">
 
-
-https://www.dropbox.com/s/eo74e0v23nubx8p/File%20Stapler%20logo.jpg?dl=0
 ## Description
 File Stapler is a desktop tool that staples together multiple files, so that when one opens, the others automatically also open. Stapling files is an alternative to moving files into new folders or making multiple copies of the same files from different locations. 
 
