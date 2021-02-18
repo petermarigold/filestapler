@@ -9,6 +9,10 @@ You can staple the same file into different groups and also unstaple them if nee
 
 There are many possible variations on what further functionality it could have. 
 
+## EDIT: after several days of preparing to launch on Github I have discovered that the files are too big. Please download from here:
+https://www.dropbox.com/s/o0sqfon7xd7606s/file%20stapler.zip?dl=0
+
+
 ## MOTIVATION
 
 I thought of this app every time that I had to match purchase orders from my retail clients with my own invoices. I would have to manually find them in different locations with non-corresponding names. I couldn’t rename them and I couldn’t move them. Once I’d imagined this piece of software as solving this problem, I realised that this could be useful for other simple things like matching job applicants and their photographs, music and song sheets, architectural plans and photographs and so on. 
