@@ -11,6 +11,8 @@ You can staple the same file into different groups and also unstaple them if nee
 
 There are many possible variations on what further functionality it could have. 
 
+The project is intended for use on either Windows or Mac operating systems. 
+
 ## EDIT: after several days of preparing to launch on Github I have discovered that the files are too big. Please download from here:
 https://www.dropbox.com/s/o0sqfon7xd7606s/file%20stapler.zip?dl=0
 
