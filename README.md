@@ -20,7 +20,7 @@ https://www.dropbox.com/s/o0sqfon7xd7606s/file%20stapler.zip?dl=0
 
 I thought of this app every time that I had to match purchase orders from my retail clients with my own invoices. I would have to manually find them in different locations with non-corresponding names. I couldn’t rename them and I couldn’t move them. Once I’d imagined this piece of software as solving this problem, I realised that this could be useful for other simple things like matching job applicants and their photographs, music and song sheets, architectural plans and photographs and so on. 
 
-This project was funded on Kickstarter but I was let down by the developers which is why I have begun the open source journey. 
+This project was funded on Kickstarter but it was never realised in the way I imagined, which is why I have begun the open source journey. 
 
 I am totally inexperienced with this world and appreciate any and all help you can give. 
 
