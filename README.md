@@ -3,7 +3,7 @@
 <img src="http://www.petermarigold.com/upload/257844/images/8ABB5CD8A0504576.jpg">
 
 ## Description
-File Stapler is a desktop tool that staples together multiple files, so that when one opens, the others automatically also open. Stapling files is an alternative to moving files into new folders or making multiple copies of the same files from different locations. 
+File Stapler is a desktop tool for on either Windows, Linux or Mac operating systems. It 'staples' together multiple files, so that when one opens, the others automatically also open. Stapling files is an alternative way to find and open files instead of moving them into new folders or making multiple copies of the same files from different locations. 
 
 File Stapler works as simple right click menu. Select two or more files, right click and select ‘Staple Files’. Now, when you open one, the others will also open. 
 
@@ -11,10 +11,7 @@ You can staple the same file into different groups and also unstaple them if nee
 
 There are many possible variations on what further functionality it could have. 
 
-The project is intended for use on either Windows or Mac operating systems. 
 
-## EDIT: after several days of preparing to launch on Github I have discovered that the files are too big. Please download from here:
-https://www.dropbox.com/s/o0sqfon7xd7606s/file%20stapler.zip?dl=0
 
 ## MOTIVATION
 
@@ -22,12 +19,10 @@ I thought of this app every time that I had to match purchase orders from my ret
 
 This project was funded on Kickstarter but it was never realised in the way I imagined, which is why I have begun the open source journey. 
 
-I am totally inexperienced with this world and appreciate any and all help you can give. 
-
 
 ## Build status
 
-This app is not functioning as it should. **The app should operate entirely via a right click menu** which the developers insisted I could not have, and we settled for an annoying drop zone window in the corner which is clunky and out of keeping with the discrete tool it should be. **Please see the animated GIF** that shows how it ideally should work. 
+This app is not functioning as it should. **The app should operate entirely via a right click menu** but I was led to understand that this is not possible, and we settled for a drop zone window in the corner which is clunky and out of keeping with the discrete tool it should be. **Please see the animated GIF** that shows how it ideally should work. 
 
 ![enter image description here](https://media.giphy.com/media/6JHvj7Vo0Y8K8yy3CI/giphy.gif)
 
