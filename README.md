@@ -37,23 +37,22 @@ https://www.dropbox.com/s/27xf0kvqr2az0d5/MIT%20License%20for%20the%20software%2
 
 
 
+### How to run this project
+1. git clone git clone git@github.com:rahulan/file-stapler.git
+2. yarn 
+3. yarn dev
 
+### How to get build?
 
-## Installation   *(HELP please!)*
-As a standalone Electron app – I believe (!) that this requires no specific installation requirements. 
+```
+yarn package-all
+```
 
-## Usage   *(HELP please!)*
-I am open to suggestions on this. Could it be integrated into another software? I feel it is fundamentally a standalone tool. 
 
 ## Support
-Please join the discussion on the github community forum link:  *TO FOLLOW*
-Private communication can be sent to info@petermarigold.com 
-Coffees can be bought for me at: 
-https://www.buymeacoffee.com/petermarigold
+Please join the discussion on the github community forum link:  *TO FOLLOW* until then private communication can be sent to info@petermarigold.com 
+Coffees can be bought for me at: https://www.buymeacoffee.com/petermarigold
 
-
-## Requirements *(HELP please!)*
-The app is tiny. I understand even the most basic machine should be able to run it. I am open to advice on this section!
 
 
 ## Road Map - future possible inclusions:
@@ -83,13 +82,11 @@ Help me Obi Wan, you’re my only hope.
 There might be bugs in the code as this was not developed by me - this software does not come with any warranty.
 
 ## Authors and acknowledgment
-File Stapler was conceived by Peter Marigold 
-[www.petermarigold.com](http://www.petermarigold.com/file-stapler)
+File Stapler was conceived by Peter Marigold [www.petermarigold.com](http://www.petermarigold.com/file-stapler)
 
 and was generously supported by many backers on [Kickstarter](https://www.kickstarter.com/projects/formcard/quickstarter-file-stapler-a-handy-desktop-tool/description) including:
 
-Katia Johansen
-“Jim"
+
 AA
 AAB323
 Adam Edwards
@@ -283,6 +280,7 @@ Jürgen K
 Justin Ache, justinache.com
 Justin Whitton
 Kari Gray
+Katia Johansen
 Kay Oetzmann
 'KeithFromCanada' Olson
 Kelvin Saggers
@@ -558,6 +556,7 @@ Mohd Rukhairy Abdul Rahman
 Picaro
 UNC Charlotte Entrepreneurship Group
 VLau
+“Jim"
 ---- I'll edit this list to make it more readable soon!
 
 ## Project status
