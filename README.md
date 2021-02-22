@@ -558,12 +558,3 @@ UNC Charlotte Entrepreneurship Group
 VLau
 “Jim"
 ---- I'll edit this list to make it more readable soon!
-
-## Project status
-Active – awaiting feedback from Kickstarter backers and others. 
-
-
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
