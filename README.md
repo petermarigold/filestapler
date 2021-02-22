@@ -22,7 +22,7 @@ This project was funded on Kickstarter but it was never realised in the way I im
 
 ## Build status
 
-This app is not functioning as it should. **The app should operate entirely via a right click menu** but I was led to understand that this is not possible, and we settled for a drop zone window in the corner which is clunky and out of keeping with the discrete tool it should be. **Please see the animated GIF** that shows how it ideally should work. 
+This app is not functioning as it should. **The app should operate entirely via a right click menu** but I was led to understand is not possible. We settled for a drop zone window in the corner which is clunky and out of keeping with the discrete tool it should be. **Please see the animated GIF** that shows how it ideally should work. 
 
 ![enter image description here](https://media.giphy.com/media/6JHvj7Vo0Y8K8yy3CI/giphy.gif)
 
