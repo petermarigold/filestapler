@@ -31,8 +31,8 @@ This is the most basic handy use of File Stapler. There are many possible option
 
 ## Build status
 
-The software currently does not behave using the right click function which is critical to the concept and I need to drastically change the software to do this.
-I am totally open to ideas and suggestions on how this could happen. The developers used Electron, which may be right, or potentially another language should be used.
+The software currently does not behave using the right click function which is critical to the concept and I am hoping the community can figure out how to make this happen. 
+I am totally open to ideas and suggestions. The developers used Electron, which may be right, or potentially another language should be used.
 **All aspects of this project are up for review including this readme**
 
 
