@@ -6,35 +6,25 @@
 File Stapler is a desktop file management tool for on either Windows or Mac operating systems.It staples together multiple files, so that when one opens, the others can also open. Stapling is a way to associate files that is an alternative to moving them into new folders, renaming  or making multiple copies of the same files in different locations.
 
 <a href="https://ibb.co/6mjKNH5"><img src="https://i.ibb.co/QfyWXPG/0001-46-3.jpg" alt="0001-46-3" border="0"></a>
-
-<a href="https://ibb.co/Rgz3QMt"><img src="https://i.ibb.co/6ygHDpG/0001-46-3.jpg" alt="0001-46-3" border="0"></a>
-
+Select files in different locations.  Right click and select 'Staple'. They are now stapled into a group. 
 
 
+<a href="https://ibb.co/wYNHtBn"><img src="https://i.ibb.co/8XD3kNy/0001-57-2.jpg" alt="0001-57-2" border="0"></a>
+<a href="https://ibb.co/Lp37fvY"><img src="https://i.ibb.co/XJqRTVj/0001-56-DETAIL-LOW.jpg" alt="0001-56-DETAIL-LOW" border="0"></a>
+The next time you right click on any stapled file the File Stapler menu will show the different groups it has been stapled into. You can then choose to open all the files in this group, unstaple files, or even just open one of the other stapled files.
+
+
+<a href="https://ibb.co/XFRyQmx"><img src="https://i.ibb.co/bN9H0p5/0001-61-3-handy.jpg" alt="0001-61-3-handy" border="0"></a>
+This is the most basic handy use of File Stapler. There are many possible options that can be added to the right click menu, such as 'move all files to a new folder', 'zip all files', 'email all files' and so on. File Stapler is an additional form of file management that can be used alongside your normal folder based way to organise your files and there are many ways it can be helpful e.g. photographs stapled to ground plans, cooking recipes with photos and videos files, student notes alongside submitted documents. 
 
 
 
-
-
-
-
-
-## MOTIVATION
-
-I thought of this app every time that I had to match purchase orders from my retail clients with my own invoices. I would have to manually find them in different locations with non-corresponding names. I couldn’t rename them and I couldn’t move them. Once I’d imagined this piece of software as solving this problem, I realised that this could be useful for other simple things like matching job applicants and their photographs, music and song sheets, architectural plans and photographs and so on. 
-
-This project was funded on Kickstarter but it was never realised in the way I imagined, which is why I have begun the open source journey. 
 
 
 ## Build status
 
-This app is not functioning as it should. **The app should operate entirely via a right click menu** but I was led to understand is not possible. We settled for a drop zone window in the corner which is clunky and out of keeping with the discrete tool it should be. **Please see the animated GIF** that shows how it ideally should work. 
-
-![enter image description here](https://media.giphy.com/media/6JHvj7Vo0Y8K8yy3CI/giphy.gif)
-
-The developers used Electron, which may be right, or potentially another language should be used. Start from scratch?
-
-
+The software currently does not behave using the right click function which is critical to the concept and I need to drastically change the software to do this.
+I am totally open to ideas and suggestions on how this could happen. The developers used Electron, which may be right, or potentially another language should be used.
 **All aspects of this project are up for review including this readme**
 
 
@@ -56,6 +46,7 @@ yarn package-all
 
 
 ## Support
+For more information about this project see www.petermarigold.com/file-stapler
 Please join the discussion on the github community forum link:  *TO FOLLOW* until then private communication can be sent to info@petermarigold.com 
 Coffees can be bought for me at: https://www.buymeacoffee.com/petermarigold
 
@@ -89,7 +80,6 @@ There might be bugs in the code as this was not developed by me - this software 
 
 ## Authors and acknowledgment
 File Stapler was conceived by Peter Marigold [www.petermarigold.com](http://www.petermarigold.com/file-stapler)
-
 and was generously supported by many backers on [Kickstarter](https://www.kickstarter.com/projects/formcard/quickstarter-file-stapler-a-handy-desktop-tool/description) including:
 
 
