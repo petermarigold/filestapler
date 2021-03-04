@@ -3,13 +3,17 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KzDhNTy/file-stapler-logo-350-width-72dpi.jpg" alt="file-stapler-logo-350-width-72dpi" border="0"></a>
 
 ## Description
-File Stapler is a desktop tool for on either Windows, Linux or Mac operating systems. It 'staples' together multiple files, so that when one opens, the others automatically also open. Stapling files is an alternative way to find and open files instead of moving them into new folders or making multiple copies of the same files from different locations. 
+File Stapler is a desktop file management tool for on either Windows or Mac operating systems.It staples together multiple files, so that when one opens, the others can also open. Stapling is a way to associate files that is an alternative to moving them into new folders, renaming  or making multiple copies of the same files in different locations.
 
-File Stapler works as simple right click menu. Select two or more files, right click and select ‘Staple Files’. Now, when you open one, the others will also open. 
+<a href="https://ibb.co/6mjKNH5"><img src="https://i.ibb.co/QfyWXPG/0001-46-3.jpg" alt="0001-46-3" border="0"></a>
 
-You can staple the same file into different groups and also unstaple them if needed. File Stapler builds a directory of all the stapled files that will appear in the right click menu and it’s also searchable via the full File Stapler dashboard when opened. 
 
-There are many possible variations on what further functionality it could have. 
+
+
+
+
+
+
 
 
 
