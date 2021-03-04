@@ -11,7 +11,8 @@ Select files in different locations.  Right click and select 'Staple'. They are 
 
 
 <a href="https://ibb.co/wYNHtBn"><img src="https://i.ibb.co/8XD3kNy/0001-57-2.jpg" alt="0001-57-2" border="0"></a> <br />  
-The next time you right click on any stapled file the File Stapler menu will show the different groups it has been stapled into. You can then choose to open all the files in this group, unstaple files, or even just open one of the other stapled files.
+The next time you right click on any stapled file the File Stapler menu will show the different groups it has been stapled into. You can then choose to open all the files in this group, unstaple files, or even just open one of the other stapled files. <br />  
+
 <a href="https://ibb.co/Lp37fvY"><img src="https://i.ibb.co/XJqRTVj/0001-56-DETAIL-LOW.jpg" alt="0001-56-DETAIL-LOW" border="0"></a>  <br />  
 
 
