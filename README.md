@@ -23,7 +23,7 @@ The next time you right click on any stapled file the File Stapler menu will sho
 
 <a href="https://ibb.co/XFRyQmx"><img src="https://i.ibb.co/bN9H0p5/0001-61-3-handy.jpg" alt="0001-61-3-handy" border="0"></a>  <br />  
 
-This is the most basic handy use of File Stapler. There are many possible options that can be added to the right click menu, such as 'move all files to a new folder', 'zip all files', 'email all files' and so on. File Stapler is an additional form of file management that can be used alongside your normal folder based way to organise your files and there are many ways it can be helpful e.g. photographs stapled to ground plans, cooking recipes with photos and videos files, student notes alongside submitted documents. 
+This is the most basic use of File Stapler, but there are many possible options that can be added to the right click menu, such as 'move all files to a new folder', 'zip all files', 'email all files' and so on. File Stapler is an additional form of file management that can be used alongside your normal folder based way to organise your files and there are many ways it can be helpful e.g. photographs stapled to ground plans, cooking recipes with photos and videos files, student notes alongside submitted documents. 
 
 
 
@@ -31,9 +31,7 @@ This is the most basic handy use of File Stapler. There are many possible option
 
 ## Build status
 
-The software currently does not behave using the right click function which is critical to the concept and I am hoping the community can figure out how to make this happen. 
-I am totally open to ideas and suggestions. The developers used Electron, which may be right, or potentially another language should be used.
-**All aspects of this project are up for review including this readme**
+The software currently does not behave using the right click function which is critical to the concept, instead it uses a clunky dropzone. I am hoping the community can figure out how to make the right click function happen. I am totally open to ideas and suggestions. The developers used Electron, which may be right, or potentially another language should be used. **All aspects of this project are up for review including this readme**
 
 
 ## License
