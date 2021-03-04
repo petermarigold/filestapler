@@ -7,6 +7,8 @@ File Stapler is a desktop file management tool for on either Windows or Mac oper
 
 <a href="https://ibb.co/6mjKNH5"><img src="https://i.ibb.co/QfyWXPG/0001-46-3.jpg" alt="0001-46-3" border="0"></a>
 
+<a href="https://ibb.co/Rgz3QMt"><img src="https://i.ibb.co/6ygHDpG/0001-46-3.jpg" alt="0001-46-3" border="0"></a>
+
 
 
 
