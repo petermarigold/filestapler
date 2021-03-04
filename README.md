@@ -53,7 +53,8 @@ yarn package-all
 
 ## Support
 For more information about this project see www.petermarigold.com/file-stapler
-Please join the discussion on the github community forum link:  *TO FOLLOW* until then private communication can be sent to info@petermarigold.com 
+Please join the discussion on the github community forum link: https://github.community/t/file-stapler-staples-files-together/165805
+And I can also be reached by email for private communication info@petermarigold.com 
 Coffees can be bought for me at: https://www.buymeacoffee.com/petermarigold
 
 
