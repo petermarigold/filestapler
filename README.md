@@ -11,11 +11,13 @@ Select files in different locations.  Right click and select 'Staple'. They are 
 
 
 <a href="https://ibb.co/wYNHtBn"><img src="https://i.ibb.co/8XD3kNy/0001-57-2.jpg" alt="0001-57-2" border="0"></a>
-<a href="https://ibb.co/Lp37fvY"><img src="https://i.ibb.co/XJqRTVj/0001-56-DETAIL-LOW.jpg" alt="0001-56-DETAIL-LOW" border="0"></a>
+<a href="https://ibb.co/Lp37fvY"><img src="https://i.ibb.co/XJqRTVj/0001-56-DETAIL-LOW.jpg" alt="0001-56-DETAIL-LOW" border="0"></a>  <br />  
+
 The next time you right click on any stapled file the File Stapler menu will show the different groups it has been stapled into. You can then choose to open all the files in this group, unstaple files, or even just open one of the other stapled files.
 
 
-<a href="https://ibb.co/XFRyQmx"><img src="https://i.ibb.co/bN9H0p5/0001-61-3-handy.jpg" alt="0001-61-3-handy" border="0"></a>
+<a href="https://ibb.co/XFRyQmx"><img src="https://i.ibb.co/bN9H0p5/0001-61-3-handy.jpg" alt="0001-61-3-handy" border="0"></a>  <br />  
+
 This is the most basic handy use of File Stapler. There are many possible options that can be added to the right click menu, such as 'move all files to a new folder', 'zip all files', 'email all files' and so on. File Stapler is an additional form of file management that can be used alongside your normal folder based way to organise your files and there are many ways it can be helpful e.g. photographs stapled to ground plans, cooking recipes with photos and videos files, student notes alongside submitted documents. 
 
 
