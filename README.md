@@ -32,6 +32,9 @@ This is the most basic use of File Stapler, but there are many possible options 
 ## Build status
 
 The software currently does not behave using the right click function which is critical to the concept, instead it uses a clunky dropzone. I am hoping the community can figure out how to make the right click function happen. I am totally open to ideas and suggestions. The developers used Electron, which may be right, or potentially another language should be used. **All aspects of this project are up for review including this readme**
+Please give your suggestions and input here https://github.community/t/file-stapler-staples-files-together/165805
+or email me info@petermarigold.com
+
 
 
 ## License
