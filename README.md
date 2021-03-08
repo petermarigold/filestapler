@@ -242,7 +242,7 @@ J Blundell
 Jacek
 Jack E
 Jack Rose (https://rose.fyi)
-James Michaelson - https://www.jamesmichaelson.co.uk
+James Michaelson
 James Ongkauko
 Jamie K.
 Jan Lukas Hobrock
