@@ -43,15 +43,8 @@ https://www.dropbox.com/s/27xf0kvqr2az0d5/MIT%20License%20for%20the%20software%2
 
 
 ### How to run this project
-1. git clone git clone git@github.com:rahulan/file-stapler.git
-2. yarn 
-3. yarn dev
+https://github.com/petermarigold/filestapler
 
-### How to get build?
-
-```
-yarn package-all
-```
 
 
 ## Support
